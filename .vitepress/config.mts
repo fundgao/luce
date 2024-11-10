@@ -4,7 +4,7 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   title: "Luce",
   description: "Luce",
-  base: "/luce/",
+  // base: "/luce/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
