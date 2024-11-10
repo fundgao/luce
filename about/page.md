@@ -1,6 +1,5 @@
 # Luce
 
 ![Luce](../public/luce.jpeg)
-![Luce](../public/luce1.jpeg)
-![Luce](../public/luce3.jpeg)
-![Luce](../public/luce6.jpeg)
+![Luce](../public/luce5.jpeg)
+![Luce](../public/luce7.jpeg)
