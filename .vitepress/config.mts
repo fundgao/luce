@@ -9,12 +9,12 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: "主页", link: "/" },
-      { text: "关于Luce", link: "/luce/page" },
+      { text: "关于Luce", link: "/about/page" },
     ],
     sidebar: [
       {
         text: "",
-        items: [{ text: "Luce介绍", link: "/luce/page" }],
+        items: [{ text: "Luce介绍", link: "/about/page" }],
       },
     ],
     socialLinks: [{ icon: "github", link: "https://github.com/fundgao/luce" }],
