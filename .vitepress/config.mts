@@ -14,7 +14,10 @@ export default defineConfig({
     sidebar: [
       {
         text: "",
-        items: [{ text: "Luce介绍", link: "/about/page" }],
+        items: [
+          { text: "Luce介绍", link: "/about/page" },
+          { text: "2025 罗马禧年", link: "/jubilee/page" },
+        ],
       },
     ],
     socialLinks: [{ icon: "github", link: "https://github.com/fundgao/luce" }],

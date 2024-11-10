@@ -15,7 +15,7 @@ hero:
 
 features:
   - title: Luce介绍
-    details: 2024年10月29日，梵蒂冈公开2025圣年的官方吉祥物——一个穿着黄色雨衣夹克，有着一头亮蓝色头发的可爱角色。教会将这个吉祥物角色命名为“Luce”，在意大利语中，这是“光明”的意思。
+    details: 2024年10月29日，梵蒂冈公开2025圣年吉祥物：一个穿着黄色雨衣夹克，有着一头亮蓝色头发的可爱角色。吉祥物名为“Luce”，是“光明”的意思。
     link: /about/page
   - title: $LUCE
     details: Official Mascot of the Holy Year。SOL链的MEME
@@ -23,6 +23,9 @@ features:
   - title: Luce话题趋势
     details: X 上的 Luce 话题趋势
     link: https://x.com/search?q=%24luce&src=typed_query&f=live
+  - title: 2025 罗马禧年
+    details: 罗马禧年定为 25 年举办一次。12 月 24 日 圣彼得大教堂圣门开启，下一年的12 月 24 日 圣彼得大教堂圣门关闭。
+    link: /jubilee/page
 ---
 
 <!-- <Home /> -->
