@@ -16,7 +16,12 @@ export default defineConfig({
         text: "",
         items: [
           { text: "Luce介绍", link: "/about/page" },
+          {
+            text: "$LUCE",
+            link: "https://dexscreener.com/solana/hqwsaxxh3dgy9dqbryjydrqukt2edy6mmhwmpuekfgzq",
+          },
           { text: "2025 罗马禧年", link: "/jubilee/page" },
+          { text: "圣门与禧年：开启宽恕之旅", link: "/holyyear/page" },
         ],
       },
     ],

@@ -19,13 +19,16 @@ features:
     link: /about/page
   - title: $LUCE
     details: Official Mascot of the Holy Year。SOL链的MEME
-    link: https://solscan.io/token/CBdCxKo9QavR9hfShgpEBG3zekorAeD7W1jfq2o3pump#analytics
+    link: https://dexscreener.com/solana/hqwsaxxh3dgy9dqbryjydrqukt2edy6mmhwmpuekfgzq
   - title: Luce话题趋势
     details: X 上的 Luce 话题趋势
     link: https://x.com/search?q=%24luce&src=typed_query&f=live
   - title: 2025 罗马禧年
     details: 罗马禧年定为 25 年举办一次。12 月 24 日 圣彼得大教堂圣门开启，下一年的12 月 24 日 圣彼得大教堂圣门关闭。
     link: /jubilee/page
+  - title: 圣门与禧年：开启宽恕之旅
+    details: 禧年期间，数以百万计的朝圣者将穿越圣门。圣门象征著基督及其慈悲，其历史可以追溯到几个世纪前。罗马主教将在今年12月24日开启这两扇铜门，正式开始禧年。
+    link: /holyyear/page
 ---
 
 <!-- <Home /> -->
